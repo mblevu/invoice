@@ -1,5 +1,10 @@
 # invoice manager
 
+fully functional invoice management system with user authentication, both a backend (FastAPI) and a frontend (React)
+
+
+
+
 
 
 Day 4: Frontend Development
@@ -31,4 +36,4 @@ Test the entire system, both frontend, and backend.
 Afternoon:
 Debug and fix any issues.
 Polish the user interface and user experience.
-Document the project and prepare for deployment.# invoice
+Document the project and prepare for deployment.
